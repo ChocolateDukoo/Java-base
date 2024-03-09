@@ -14,4 +14,3 @@ Java의 정석
 **[Chapter 7. 객체지향 개념 II-1](https://velog.io/@hcw0709/Chapter-7.-%EA%B0%9D%EC%B2%B4%EC%A7%80%ED%96%A5-%EA%B0%9C%EB%85%90-II-1-78uwax4a)**
 
 **[Chapter 8. 예외처리](https://velog.io/@hcw0709/Chapter-8.-%EC%98%88%EC%99%B8%EC%B2%98%EB%A6%AC)**
- 
